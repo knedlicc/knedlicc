@@ -3,7 +3,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=knedlicc)](https://github.com/knedlicc/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-4rqexbpll-knedliccs-projects.vercel.app/api/top-langs/?username=knedlicc&hide_progress=true)
+![Top Langs]([https://github-readme-stats-4rqexbpll-knedliccs-projects.vercel.app/api/top-langs/?username=knedlicc&hide_progress=true](https://github-readme-stats-4rqexbpll-knedliccs-projects.vercel.app/api/top-langs/?hide_progress=true&username=knedlicc))
 
 <!--
 **knedlicc/knedlicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
