@@ -3,7 +3,7 @@
 
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=knedlicc)](https://github.com/knedlicc/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats-psi-flax.vercel.app/api/top-langs/?username=knedlicc&layout=compact&langs_count=10)](https://github.com/knedlicc/github-readme-stats)
+[![Top Langs](https://github-readme-stats-psi-flax.vercel.app/api/top-langs/?username=knedlicc&layout=compact&langs_count=8&exclude_repo=CarSolve&size_weight=0.5&count_weight=0.5)](https://github.com/knedlicc/github-readme-stats)
 
 <!--
 **knedlicc/knedlicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
