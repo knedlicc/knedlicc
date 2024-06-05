@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Top Langs](https://github-readme-stats-4rqexbpll-knedliccs-projects.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats-4rqexbpll-knedliccs-projects.vercel.app/api/top-langs/?username=knedlicc&hide_progress=true)
 
 <!--
 **knedlicc/knedlicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
