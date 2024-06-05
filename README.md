@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=knedlicc)](https://github.com/knedlicc/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats-4rqexbpll-knedliccs-projects.vercel.app/api/top-langs/?username=knedlicc&hide_progress=true)
 
 <!--
