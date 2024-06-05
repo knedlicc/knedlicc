@@ -2,10 +2,10 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Java" src="" />
+  <img alt="Java" src="https://img.shields.io/badge/-Spring-45b8d8?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-45b8d8?style=flat-square&logo=spring&logoColor=white"/>
-  <img alt="Python" src="" />
-  <img alt="Solidity" src=""/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Spring-45b8d8?style=flat-square&logo=solidity&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -19,7 +19,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src=""/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-Spring-45b8d8?style=flat-square&logo=postgresql&logoColor=white"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=knedlicc)](https://github.com/knedlicc/github-readme-stats)-->
@@ -28,7 +28,7 @@
 
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <!--
 **knedlicc/knedlicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
